@@ -1,4 +1,6 @@
-#lang racket/gui
+#lang racket
+
+(require racket/gui)
 
 ;-----
 ;CLICK STEP PROGRAM USING RACKET/GUI
